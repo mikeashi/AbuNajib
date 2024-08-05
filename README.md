@@ -1,4 +1,5 @@
 # AbuNajib
+![image](https://github.com/user-attachments/assets/61a499af-6f4c-466a-bbc4-45b8877523d6)
 
 This project was developed over a weekend for personal use, and functionality may evolve based on changing requirements.
 
@@ -79,7 +80,3 @@ Since this project is primarily for personal use, contributions are currently no
 ## License
 
 This project is licensed under the MIT License.
-
-
-
-Enjoy using AbuNajib to manage your budget and track your transactions efficiently!
